@@ -1,3 +1,13 @@
+class bank
+{
+	int id;
+	int balance;
+	bank(int x, int y)
+	{
+		id = x;
+		balance = y;
+	}
+}
 public class test
 {
 	//this is first commit of user1
